@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Hello World",
+      "body": "Hellow World content",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Second Post",
+      "body": "this is 2nd post",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Yoshi Post!",
+      "body": "Yoshi write this post",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
